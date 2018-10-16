@@ -1,0 +1,17 @@
+{
+  "name": "ttestbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Amonrat Loylertlar <keaza_cc@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "firebase-admin": "^6.0.0",
+    "touch": "^3.1.0"
+  }
+}
